@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ExampleTabbing</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Names -->
+    <string-array name="Member_names">
+        <item>xxxx</item>
+        <item>yyyyy</item>
+        <item>zzzzz</item>
+        <item>aaaaa</item>
+        <item>bbbb</item>
+        <item>cccc</item>
+    </string-array>
+
+
+    <!-- Status -->
+    <string-array name="statues">
+        <item>Available</item>
+        <item>Available</item>
+        <item>Busy</item>
+        <item>In a meeting</item>
+        <item>At work</item>
+        <item>At gym</item>
+    </string-array>
+
+    <!-- contact type -->
+    <string-array name="contactType">
+        <item>Mobile</item>
+        <item>Mobile</item>
+        <item>Mobile</item>
+        <item>Mobile</item>
+        <item>Mobile</item>
+        <item>Mobile</item>
+    </string-array>
+
+</resources>
